@@ -451,11 +451,11 @@ function App() {
             {/* Email */}
 
             <a
-               href="https://mail.google.com/mail/?view=cm&fs=1&to=roshan.k8606@gmail.com"
-               target="_blank"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=roshan.k8606@gmail.com"
+              target="_blank"
               rel="noopener noreferrer"
               className="contact-card"
-           >
+            >
               <div className="contact-icon">
                 ✉
               </div>
@@ -537,7 +537,7 @@ function App() {
                   height="22"
                   fill="currentColor"
                 >
-                  <path d="M20.45 20.45h-3.56v-5.58c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.44-2.13 2.94v5.68H9.3V8.98h3.42v1.57h.05c.48-.9 1.64-1.85 3.37-1.85 3.61 0 4.28 2.38 4.28 5.47v6.28ZM5.28 7.4a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14ZM3.5 20.45h3.57V8.98H3.5v11.47ZM22.22 0H1.78C.8 0 0 .78 0 1.75v20.5C0 23.22.8 24 1.78 24h20.44c.98 0 1.78-.78 1.78-1.75V1.75C24 .78 23.2 0 22.22 0Z" />
+                  <path d="M20.45 20.45h-3.56v-5.58c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.44-2.13 2.94v5.68H9.3V8.98h3.42v1.57h.05c.48-.9 1.64-1.85 3.37-1.85 3.61 0 4.28 2.38 4.28 5.47v6.28ZM5.28 7.4a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14ZM3.5 20.45h3.57V8.98H3.5v11.47H3.5ZM22.22 0H1.78C.8 0 0 .78 0 1.75v20.5C0 23.22.8 24 1.78 24h20.44c.98 0 1.78-.78 1.78-1.75V1.75C24 .78 23.2 0 22.22 0Z" />
                 </svg>
 
               </div>
