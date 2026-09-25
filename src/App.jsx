@@ -471,6 +471,12 @@ function App() {
               value="table"
             />
 
+            <input
+              type="hidden"
+              name="_replyto"
+              value=""
+            />
+
             <div className="form-group">
               <label htmlFor="name">Your Name</label>
               <input
